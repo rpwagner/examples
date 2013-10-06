@@ -1,12 +1,11 @@
 examples
 ========
 
-xor_swap
---------
+`xor_swap`
+----------
 
-Program to demonstrate swapping two variables using XOR.
-Usage: `xor_swap <x> <y>`
-Where x and y are integers less than 256.
+Program to demonstrate swapping two variables using XOR.  
+Usage: `xor_swap <x> <y>`; where x and y are integers less than 256.
 
 ```
 src$ gcc -o xor_swap xor_swap.c 
